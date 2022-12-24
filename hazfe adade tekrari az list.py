@@ -4,7 +4,7 @@
 
 #مثال :  1 2 7 5 5 8 9 2 1
  
-input_string = input('enter your numbers:')
+input_string = input('enter your numbers with one space:')
 
 print("\n")
 
