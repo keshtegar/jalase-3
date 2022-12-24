@@ -12,7 +12,7 @@ def moadele_darege2():
     
     if delta==0 :
     
-        x=(-b + math.sqrt(delta))
+        x=(-b /2*a)
     
         print("Moadele Yek javab darad. X=",x)
     
